@@ -1,8 +1,8 @@
 package org.example;
 
 import lombok.var;
-import org.example.interfaces.EmployeeDB;
-import org.example.interfaces.ProductDB;
+import org.example.fundamentals.EmployeeDB;
+import org.example.fundamentals.ProductDB;
 
 public class Main {
 

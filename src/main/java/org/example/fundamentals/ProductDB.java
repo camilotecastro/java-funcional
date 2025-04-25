@@ -1,4 +1,4 @@
-package org.example.interfaces;
+package org.example.fundamentals;
 
 public class ProductDB implements DatabaseService<Product>{
 

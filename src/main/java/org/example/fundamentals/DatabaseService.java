@@ -1,6 +1,4 @@
-package org.example.interfaces;
-
-import java.util.List;
+package org.example.fundamentals;
 
 public interface DatabaseService<T>{
 

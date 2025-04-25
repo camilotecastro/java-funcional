@@ -1,4 +1,4 @@
-package org.example.interfaces;
+package org.example.fundamentals;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -7,10 +7,10 @@ import lombok.ToString;
 @ToString
 @Getter
 @Setter
-public class Product {
+public class Employee {
 
-  private Long id;
+  private String dni;
   private String name;
-  private Double price;
+  private Double salary;
 
 }
